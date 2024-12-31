@@ -13,23 +13,23 @@ export default function PortFolio() {
           Each project is a unique piece of designing 🧩
         </h2>
 
-        <div className="flex flex-col lg:flex-row items-center my-8 mx-5 lg:mx-0 shadow-md rounded-2xl bg-[#FFFFFF0D] transition-transform duration-200 hover:scale-105">
+        <div className="flex flex-col lg:flex-row items-center my-8 mx-5 lg:mx-0 shadow-md rounded-2xl bg-[#FFFFFF0D]">
           <img
-            src="./netflix.webp"
-            alt="Netflix Clone"
-            className="w-full lg:w-1/2 h-auto object-fill rounded-2xl "
+            src="blinkit.webp"
+            alt="Blinkit Clone"
+            className="w-full lg:w-1/2 h-[300px] object-fill rounded-2xl "
           />
           <div className="text-center lg:text-left lg:w-1/2 px-8 py-5">
-            <h2 className="text-red-500 text-[24px] font-bold mb-3">NETFLIX</h2>
+            <h2 className="text-yellow-500 text-[24px] font-bold mb-3">BLINKIT</h2>
             <p className="text-[#CCCCCC] text-[18px] mb-5">
-              Successfully crafted a visually striking front-end Netflix clone using
-              HTML, CSS, and JavaScript. Applied responsive design principles to ensure
+              Successfully crafted a visually striking front-end blinkit clone using
+              HTML, CSS, JavaScript, and React js. Applied responsive design principles to ensure
               optimal viewing across devices, emphasizing attention to detail in
               replicating the original user interface.
             </p>
             <div className="link flex justify-center lg:justify-start space-x-5">
               <a
-                href="https://github.com/jitender1322/MyProjects/tree/main/Netflix_Clone"
+                href="https://github.com/Varsaniraj7/blinkit-clone.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#147efb] font-bold flex items-center space-x-2"
@@ -38,7 +38,7 @@ export default function PortFolio() {
                 <h1 className='text-white'><FaGithub /></h1>
               </a>
               <a
-                href="../Netflix_Clone/index.html"
+                href="https://blinkit-clone-inky.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#147efb] font-bold flex items-center space-x-2"
@@ -51,7 +51,7 @@ export default function PortFolio() {
         </div>
       </div>
       <div className="w-[90%]">
-        <div className="flex flex-col lg:flex-row items-center mx-5 lg:mx-0 shadow-md rounded-[10px] bg-[#FFFFFF0D] transition-transform duration-200 hover:scale-105">
+        <div className="flex flex-col lg:flex-row items-center mx-5 lg:mx-0 shadow-md rounded-[10px] bg-[#FFFFFF0D]">
           <div className="text-center lg:text-left lg:w-1/2 px-8 py-5">
             <h2 className="text-red-500 text-[24px] font-bold mb-3">NETFLIX</h2>
             <p className="text-[#CCCCCC] text-[18px] mb-5">
@@ -84,7 +84,7 @@ export default function PortFolio() {
           <img
             src="./netflix.webp"
             alt="Netflix Clone"
-            className="w-full lg:w-1/2 h-auto object-fill rounded-2xl "
+            className="w-full lg:w-1/2 h-[300px] object-fill rounded-2xl "
           />
         </div>
       </div>
