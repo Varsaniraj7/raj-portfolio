@@ -53,7 +53,7 @@ export default function PortFolio() {
       <div className="w-[90%]">
         <div className="flex flex-col lg:flex-row items-center mx-5 lg:mx-0 shadow-md rounded-[10px] bg-[#FFFFFF0D]">
           <div className="text-center lg:text-left lg:w-1/2 px-8 py-5">
-            <h2 className="text-red-500 text-[24px] font-bold mb-3">NETFLIX</h2>
+            <h2 className="text-[#4f64ba] text-[24px] font-bold mb-3">ALUMNI</h2>
             <p className="text-[#CCCCCC] text-[18px] mb-5">
               Successfully crafted a visually striking front-end Netflix clone using
               HTML, CSS, and JavaScript. Applied responsive design principles to ensure
@@ -62,7 +62,7 @@ export default function PortFolio() {
             </p>
             <div className="link flex justify-center lg:justify-start space-x-5">
               <a
-                href="https://github.com/jitender1322/MyProjects/tree/main/Netflix_Clone"
+                href="https://github.com/Varsaniraj7/alumini_platform.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#147efb] font-bold flex items-center space-x-2"
@@ -71,7 +71,7 @@ export default function PortFolio() {
                 <h1 className='text-white'><FaGithub /></h1>
               </a>
               <a
-                href="../Netflix_Clone/index.html"
+                href="https://aluminiplatform.netlify.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#147efb] font-bold flex items-center space-x-2"
@@ -82,8 +82,8 @@ export default function PortFolio() {
             </div>
           </div>
           <img
-            src="./netflix.webp"
-            alt="Netflix Clone"
+            src="./alumni.png"
+            alt="Alumni"
             className="w-full lg:w-1/2 h-[300px] object-fill rounded-2xl "
           />
         </div>
